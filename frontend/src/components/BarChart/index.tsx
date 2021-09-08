@@ -12,7 +12,7 @@ const BarChart = () => {
 
     const mockData = {
         labels: {
-            categories: ['Cliente 1', 'Cliente 2', 'Cliente 3', 'Cliente 4', 'Cliente 5']
+            categories: ['Vendedor 1', 'Vendedor 2', 'Vendedor 3', 'Vendedor 4', 'Vendedor 5']
         },
         series: [
             {
