@@ -2,8 +2,8 @@ import Chart from 'react-apexcharts';
 
 const DonutChart = () => {
     const mockData = {
-        series: [477138, 499928, 444867, 220426, 473088],
-        labels: ['Anakin', 'Barry Allen', 'Kal-El', 'Logan', 'Padmé']
+        series: [5, 2, 4, 8, 7],
+        labels: ['Cliente 1', 'Cliente 2', 'Cliente 3', 'Cliente 4', 'Cliente 5']
     }
 
     const options = {
