@@ -23,12 +23,6 @@ const DonutChart = () => {
             });
     }, []);
 
-
-    //const mockData = {
-    //    series: [5, 2, 4, 8, 7],
-    //    labels: ['Vendedor 1', 'Vendedor 2', 'Vendedor 3', 'Vendedor 4', 'Vendedor 5']
-    //}
-
     const options = {
         legend: {
             show: true
